@@ -3,14 +3,6 @@ import { css } from "@emotion/css";
 
 import { fetchLastLocation } from "./backend/fetchLastLocations";
 
-// Part 2
-// 1. disable the button while it’s fetching data, and change button to loading state
-// 2. remove disabling button and allow users to click as many times as possible
-//    each response should appear in table in order of click
-// 3. group entries by cities on the table. Each new entry should go at the top of the group within the same city
-// 4. only the first row of the city group shows city
-
-
 // This is an example results data structure
 const results:any = [
   {
