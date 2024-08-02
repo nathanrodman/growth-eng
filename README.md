@@ -1,7 +1,7 @@
 # Grafana Frontend React Exercise. 
 
 ## Instructions
-1. 3. Run `npm install` to install all dependencies needed.
+1. Run `npm install` to install all dependencies needed.
 
 2. To start the project, run `npm start`. This runs the app in the development mode.
 
