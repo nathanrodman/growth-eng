@@ -15,8 +15,8 @@
 1. Clicking on the button should call fetch last location and display data in a new row in the table.
 2. In the table, display a timestamp of the call, and the execution time of each call.
 3. At the bottom, display the fastest time, slowest time, and average time
-
-2. `App.tsx` comes with a fake endpoint called `fetchLastLocation`. Please do not modify it, and use it as an endpoint for this exercise. 
+4. `App.tsx` comes with a fake endpoint called `fetchLastLocation`. Please do not modify it, and use it as an endpoint for this exercise.
+5. Once completed, upload it to a repository and send the repository link back to us. 
 
 ## Other things to consider
 This exercise was meant as a very basic set up. What can you do to improve it? Feel free to add to this read me and let us know here. 
