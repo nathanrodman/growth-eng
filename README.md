@@ -1,7 +1,7 @@
 # Grafana Frontend React Exercise. 
 
 ## Instructions
-Note: We'll be using this as the base of your virtual on-site technical excercise. The on-site round will build on top of this assessment.
+> Note: We'll be using this as the base of your virtual on-site technical excercise. The on-site round will build on top of this assessment.
 
 1. Clone this repository to your local.
 
