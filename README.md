@@ -1,13 +1,14 @@
 # Grafana Frontend React Exercise. 
 
 ## Instructions
-1. Run `npm install` to install all dependencies needed.
+1. Clone this repository to your local.
+2. Run `npm install` to install all dependencies needed.
 
-2. To start the project, run `npm start`. This runs the app in the development mode.
+3. To start the project, run `npm start`. This runs the app in the development mode.
 
-3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes. You may also see any lint errors in the console.
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes. You may also see any lint errors in the console.
 
-4. The repository comes with built in CSS using `emotions`. Feel free to use a different library if it is easier.
+5. The repository comes with built in CSS using `emotions`. Feel free to use a different library if it is easier.
 
 ## Requirements
 
