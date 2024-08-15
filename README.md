@@ -1,6 +1,7 @@
-# Grafana Frontend React Exercise. 
+# Grafana Frontend React Exercise.
 
 ## Instructions
+
 > Note: We'll be using this as the base of your virtual on-site technical excercise. The on-site round will build on top of this assessment.
 
 1. Clone this repository to your local.
@@ -23,7 +24,15 @@
 
 4. `App.tsx` comes with a fake endpoint called `fetchLastLocation`. Please do not modify it, and use it as an endpoint for this exercise.
 
-5. Once completed, upload it to a repository and send the repository link back to us. 
+5. Once completed, upload it to a repository and send the repository link back to us.
 
 ## Other things to consider
-This exercise was meant as a very basic set up. What can you do to improve it? Feel free to add to this read me and let us know here. 
+
+This exercise was meant as a very basic set up. What can you do to improve it? Feel free to add to this read me and let us know here.
+
+- [] Better styling for the table. The columns should all have a min-width property.
+- [] Add sort operations for the table.
+- [] Add filtering operations for the table.
+- [] Add a loading indicator when the data is being fetched.
+- [] Save the data in local storage so that it persists on refresh.
+- [] Add unit tests for the components
